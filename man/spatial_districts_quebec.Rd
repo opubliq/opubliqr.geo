@@ -10,13 +10,9 @@ Un objet \code{sf} avec une colonne \code{geometry} représentant les polygones 
 \source{
 Statistique Canada
 }
-\usage{
-spatial_districts_quebec
-}
 \description{
 Objet sf contenant les districts électoraux de la ville de Québec, provenant de \href{https://www.donneesquebec.ca/recherche/dataset/ca1847da-e908-43de-bd8c-588570331650}{Données Québec}.
 }
 \references{
 VILLE DE QUÉBEC. Districts électoraux, \link{Jeu de données}, dans Données Québec, 2012, mis à jour le 24 février 2025. \link{https://www.donneesquebec.ca/recherche/dataset/vque_43}, (consulté le 05 mars 2025).
 }
-\keyword{datasets}
