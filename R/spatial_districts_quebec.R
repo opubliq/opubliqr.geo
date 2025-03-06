@@ -5,4 +5,5 @@
 #' @format Un objet `sf` avec une colonne `geometry` représentant les polygones des circonscriptions.
 #' @source Statistique Canada
 #' @references VILLE DE QUÉBEC. Districts électoraux, [Jeu de données], dans Données Québec, 2012, mis à jour le 24 février 2025. [https://www.donneesquebec.ca/recherche/dataset/vque_43], (consulté le 05 mars 2025).
+#' @export
 "spatial_districts_quebec"
