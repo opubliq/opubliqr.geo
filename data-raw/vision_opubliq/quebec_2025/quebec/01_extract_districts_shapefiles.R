@@ -1,4 +1,4 @@
-# Ce script extrait le 
+# Ce script extrait les fichiers shapefiles des districts électoraux de la Ville de Québec du dossier zip téléchargé
 
 # Télécharger le fichier zip
 url <- "https://www.donneesquebec.ca/recherche/dataset/ca1847da-e908-43de-bd8c-588570331650/resource/bfc0c5d8-f947-49de-8292-5fa78d01b103/download/vdq-districtelectoral.zip"
